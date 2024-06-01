@@ -6,7 +6,7 @@ $conn = db_connect();
 if (empty($_GET["database"]))
 {
     $select = "DATABASES";
-    $select_file = "databases.php";
+    $select_file = "index.php";
     $select_name = "Database";
     $database_name = "";
 }

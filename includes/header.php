@@ -13,7 +13,7 @@
 <body>
     <nav class="navbar bg-body-tertiary">
     <form class="container-fluid justify-content-start">
-        <a href="databases.php" class="btn btn-sm btn-outline-secondary" type="button">Databases</a>
+        <a href="index.php" class="btn btn-sm btn-outline-secondary" type="button">Databases</a>
         
     </form>
     </nav>
