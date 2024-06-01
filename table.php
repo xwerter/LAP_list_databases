@@ -3,7 +3,7 @@ require("includes/header.php");
 
 if (empty($_GET["database"]) OR empty($_GET["table"]))
 {
-    header("Location: databases.php");
+    header("Location: index.php");
     exit;
 }
 
